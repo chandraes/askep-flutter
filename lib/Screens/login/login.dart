@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:login_ui/Screens/register/register.dart';
+import 'package:login_ui/Screens/home.dart';
 import 'package:login_ui/components/background.dart';
 
 class LoginScreen extends StatelessWidget {
@@ -39,7 +40,10 @@ class LoginScreen extends StatelessWidget {
               alignment: Alignment.center,
               margin: EdgeInsets.symmetric(horizontal: 30, vertical: 10),
               child: RaisedButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => HomeScreen()));
+                },
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(4.0)),
                 textColor: Colors.white,
