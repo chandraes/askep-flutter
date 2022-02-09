@@ -22,18 +22,18 @@ class Background extends StatelessWidget {
               children: <Widget>[
                 Container(
                   width: size.width * 0.3,
-                  height: size.height * 0.3,
+                  height: size.height * 0.2,
                   child: Image.asset(
                     "assets/images/logo.png",
                     width: size.width * 0.2,
                   ),
                 ),
                 Container(
-                  width: size.width * 0.3,
-                  height: size.height * 0.3,
+                  width: size.width * 0.4,
+                  height: size.height * 0.2,
                   child: Image.asset(
                     "assets/images/askep.png",
-                    width: size.width * 0.2,
+                    width: size.width * 0.4,
                   ),
                 ),
               ],
