@@ -1,4 +1,4 @@
-#Wed Feb 09 16:45:10 WIB 2022
+#Fri Feb 11 13:09:03 WIB 2022
 base.0=/Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
