@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:login_ui/Screens/login/login_screen.dart';
 import 'Screens/login/login.dart';
 import 'Screens/home.dart';
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: LoginScreen(), 
+      home: LoginPage(),
     );
   }
 }

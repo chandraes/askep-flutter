@@ -5,6 +5,9 @@ INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reis
 INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml:1:1-47:12
 INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml:1:1-47:12
 MERGED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml:1:1-47:12
+MERGED from [:shared_preferences_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/e1bbce6b0d79e8479b70e7bd729bb743/loader-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -97,6 +100,12 @@ uses-sdk
 INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/sqflite/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/unsri-perpus/Documents/Chandra/Kerjaan/Rian/log_in-and-reisp/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/0986d0d74b8a2c7da8161f6370fc7744/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/unsri-perpus/.gradle/caches/transforms-2/files-2.1/28d99d5113324aa067757f8ca41a426f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
